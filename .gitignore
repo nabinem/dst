@@ -1,0 +1,8 @@
+#comment
+*.txt
+.Ds_Store
+*.zip
+*.rar
+*.gz
+log/*.log
+log/*.log.[0-9]
