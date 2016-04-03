@@ -100,7 +100,7 @@
           <h1>Quick Nav</h1>
           <ul id="quickNav">
             <li><a href="index.html" title="Our home page">Home</a></li>
-            <li><a href="tours.html" title="Explore our tours">Tours</a></li>
+            <li><a href="tours.html" title="Explore our tours">Tours Edit</a></li>
             <li><a href="mission.html" title="What we think">Mission</a></li>
             <li><a href="resources.html" title="Guidance and planning">Resources</a></li>
             <li><a href="explorers.html" title="Join our community">Explorers</a></li>
