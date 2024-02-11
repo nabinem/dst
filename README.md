@@ -1,5 +1,5 @@
 # dtst
-dtst files for learning Git and Github 
+dtst files Git and Github 
 
 
 ![Dashboard](http://i.imgur.com/yxn3VYD.png)
