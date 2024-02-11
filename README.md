@@ -1,5 +1,5 @@
-# demo-test
-demo files for learning Git and Github 
+# dtst
+dtst files for learning Git and Github 
 
 
 ![Dashboard](http://i.imgur.com/yxn3VYD.png)
